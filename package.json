@@ -27,6 +27,7 @@
     "debug": "^2.1.0",
     "moment": "^2.8.4",
     "passport-strategy": "^1.0.0",
-    "querystring": "^0.2.0"
+    "querystring": "^0.2.0",
+    "jsonwebtoken": "^7.0.0"
   }
 }
